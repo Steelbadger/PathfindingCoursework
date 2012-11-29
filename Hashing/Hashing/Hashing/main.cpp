@@ -329,8 +329,6 @@ void add_to_dlist(int minboardval){
 	hashTableMap[minboardval] = true;
 }
 
-
-
  
 void printp(position p) {
 	int     i,j;
